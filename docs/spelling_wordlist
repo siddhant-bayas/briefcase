@@ -41,6 +41,7 @@ CLI
 cmd
 CMD
 codebase
+Conda
 cookiecutter
 Cookiecutter
 cryptographic
@@ -238,6 +239,7 @@ UTTypeConformsTo
 uv
 vendored
 Ventura
+venv
 verbing
 visionOS
 VM
